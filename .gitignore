@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.vscode/
+.python-version
+.tag
+*.sql
+*.sqlite3
+**/*.pyc
+venv/
+test.sh
+media/
+staticfiles/
